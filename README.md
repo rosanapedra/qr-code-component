@@ -4,21 +4,20 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ## Índice
 
-- [Visão geral](#visão geral)
- - [Captura de tela](#captura de tela)
+- [Visão geral](#visão-geral)
+ - [Captura de tela](#captura-de-tela)
  - [Links](#links)
 - [Meu processo](#meu-processo)
- - [Construído com](#construído com)
- - [O que aprendi](#o que aprendi)
- - [Desenvolvimento contínuo](#desenvolvimento contínuo)
+ - [Construído com](#construído-com)
+ - [O que aprendi](#o-que-aprendi)
+ - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
 ## Visão geral
 
 ### Captura de tela
-
-![](![Captura de tela 2024-06-10 181255](https://github.com/rosanapedra/qr-code-component/assets/165735049/cff28f3e-2a48-4339-a81d-257767f0b6eb))
+![Captura de tela 2024-06-10 181255](https://github.com/rosanapedra/qr-code-component/assets/165735049/cff28f3e-2a48-4339-a81d-257767f0b6eb)
 
 ### Links
 
