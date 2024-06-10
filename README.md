@@ -5,12 +5,12 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 ## Índice
 
 - [Visão geral](#visão-geral)
- - [Captura de tela](#captura-de-tela)
- - [Links](#links)
+  - [Captura de tela](#captura-de-tela)
+  - [Links](#links)
 - [Meu processo](#meu-processo)
- - [Construído com](#construído-com)
- - [O que aprendi](#o-que-aprendi)
- - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Construído com](#construído-com)
+  - [O que aprendi](#o-que-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
@@ -21,8 +21,8 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Links
 
-- Código do desenvolvimento: (https://github.com/rosanapedra/qr-code-component.git)
-- Front do projeto ativo: (https://rosanapedra.github.io/qr-code-component/)
+- Código do desenvolvimento: [Qr Code](https://github.com/rosanapedra/qr-code-component.git)
+- Front do projeto ativo: [Site ativo](https://rosanapedra.github.io/qr-code-component/)
 
 ## Meu processo
 
@@ -42,9 +42,9 @@ Continuarei me aperfeiçoando em CSS, focando no Flexbox e Grid. Irei continuar 
 
 ## Autor
 
-- Frontend Mentor - [@rosanapedra] (https://www.frontendmentor.io/profile/rosanapedra)
-- Instagram - [@rosanapedra3] (https://www.instagram.com/rosanapedra3/)
-- GitHub - [@rosanapedra] (https://github.com/rosanapedra)
+- Frontend Mentor - [@rosanapedra](https://www.frontendmentor.io/profile/rosanapedra)
+- Instagram - [@rosanapedra3](https://www.instagram.com/rosanapedra3/)
+- GitHub - [@rosanapedra](https://github.com/rosanapedra)
 
 ## Agradecimentos
 
