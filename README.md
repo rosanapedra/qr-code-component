@@ -42,6 +42,7 @@ Continuarei me aperfeiçoando em CSS, focando no Flexbox e Grid. Irei continuar 
 
 ## Autor
 
+- LinkedIn - [@rosana pedra](https://www.linkedin.com/in/rosana-pedra-a9b87b2b9/)
 - Frontend Mentor - [@rosanapedra](https://www.frontendmentor.io/profile/rosanapedra)
 - Instagram - [@rosanapedra3](https://www.instagram.com/rosanapedra3/)
 - GitHub - [@rosanapedra](https://github.com/rosanapedra)
